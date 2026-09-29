@@ -1,0 +1,14 @@
+student:
+  name: "Lăng Văn Huy"
+  id: "23020745"
+  modulo_result: 3
+
+zones:
+  zone_a: "yellow"
+  zone_b: "blue"
+  zone_c: "red"
+
+objects:
+  - "red_cube"
+  - "blue_cube"
+  - "yellow_cube"
